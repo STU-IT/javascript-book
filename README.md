@@ -2,9 +2,13 @@
 
 - Objekter
   - samlinger af varibler og funtioner (= egenskaber og metoder )
+    - øvelser 1 og 2
   - nedarvning
+    - øv 3, 8, 9, 10, 11
+    
+  
   - slides https://docs.google.com/presentation/d/1lB2RRZpt1gwCoTPccXZ5dSuSO-PtKxeF_77eiKtsFk4/edit?usp=sharing
-  - øvelser 
+  - øvelser til kapitel 7 https://docs.google.com/document/d/1qmHzZVt1FnQMrR7GfE9P_M9vKX2kj3lgnKo4_jijTsU/edit?usp=sharing
     ...
 
 
